@@ -11,12 +11,16 @@
   <img src="https://img.icons8.com/color/2x/html-5.png" width="60" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="60" alt="CSS3">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="60" alt="JavaScript">
-  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="60" alt="Bootstrap">
+  <img alt="Java" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> 
+  <img alt="C#" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />      
+  <img alt="C++" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/
 </div>
 
 <div> 
   <h4> Contate-me 💬</h4>
   <a href="https://www.linkedin.com/in/keilaalves1803/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:keilaalves1803@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5511952500370?text=Olá, Keila!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%52a447?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
 <!--
